@@ -5,7 +5,7 @@ const Square=({colorValue, hexValue, isDarkText})=>{
         className="square"
         style={{
             backgroundColor: colorValue,
-            color: isDarkText ? "#000" : "#fff"
+            color: isDarkText ? "#000" : "#FF0000"
         }
         }
         >
